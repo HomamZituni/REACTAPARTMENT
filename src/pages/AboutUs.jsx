@@ -1,8 +1,8 @@
-export default function Amenities () {
-return (
-<div style={{ padding: '2rem' }}>
-      <h1>Amenities</h1>
-      <p>Rooftop pool, fitness center, concierge service.</p>
+export default function AboutUs() {
+  return (
+    <div style={{ padding: '2rem' }}>
+      <h1>About Us</h1>
+      <p>Our dedicated staff makes luxury living effortless.</p>
     </div>
-)
+  )
 }
